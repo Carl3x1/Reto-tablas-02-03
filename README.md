@@ -19,7 +19,6 @@ El sitio permite visualizar información estructurada de manera clara, siguiendo
 |--------------|------------|
 | HTML         | Estructura del contenido y creación de tablas |
 | CSS          | Estilos visuales y diseño de la interfaz |
-| JavaScript   | Funcionalidad básica e interactividad |
 
 ---
 
