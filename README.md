@@ -9,7 +9,7 @@ El sitio permite visualizar información estructurada de manera clara, siguiendo
 ---
 
 ## INTECAP
-![Logo INTECAP](![alt text](image.png))
+![alt text](image.png)
 
 ---
 
